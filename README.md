@@ -1,2 +1,2 @@
-# slither
-Slither autoclicker made by @SpeedBee411
+# Slither Autoclicker (PyQt5 version)
+## made by SpeedBee411/Scratchy2
