@@ -1,2 +1,2 @@
 # Slither Autoclicker (PyQt5 version)
-## made by SpeedBee411/Scratchy2
+**made by SpeedBee411/Scratchy2**
