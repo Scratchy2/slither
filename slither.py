@@ -1,3 +1,6 @@
+# SLITHER AUTOCLICKER V2 (ultrakill reference)
+# hopefully works so you can have an autoclicker with no viruses (check for yourself, virustotal even says 0/62: https://www.virustotal.com/gui/file/9b1b8729257ac74ee5d3eba47e64f56169f6e1ab6abf93e3197c40ad2141218a)
+# i would advise you only set the hotkeys once
 try:
     def setup():
         app = QApplication([])
